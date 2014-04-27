@@ -15,6 +15,6 @@ Il libro intero, brossurato, lo trovate qui:  [Rizzoli](http://libreriarizzoli.c
 
 La versione ebook, invece: [Kindle](http://www.amazon.it/Ti-volevo-dire-Scala-italiani-ebook/dp/B00BFWJZNK/ref=dp_kinw_strp_1) |  [BookRepublic](http://www.bookrepublic.it/book/9788858642153-ti-volevo-dire/) | [iTunes](https://itunes.apple.com/it/book/ti-volevo-dire/id603590435?mt=11)
 
-__<!>__ Se lo leggete, fatemi sapere che cosa ne pensate, magari su twitter: io sono [@dbresciani](https://twitter.com/dbresciani) e l'hashtag #tivolevodire renderebbe tutto più semplice.
+__<!>__ Se lo leggete, fatemi sapere che cosa ne pensate, magari su twitter: io sono [@dbresciani](https://twitter.com/dbresciani) e l'hashtag `#tivolevodire` renderebbe tutto più semplice.
 
 
