@@ -10,6 +10,12 @@ title:            soon online
 tagline:          '@dbresciani'
 description:      'follow me on <a href="https://twitter.com/dbresciani" target="_blank">twitter</a>.'
 
+pages_list:       
+  About: '/bio'
+  Ti volevo dire: '/tivolevodire'
+  Archive: '/archivio'
+  Feed: '/atom.xml'
+
 author:
   name:           'db'
   url:            https://twitter.com/dbresciani
