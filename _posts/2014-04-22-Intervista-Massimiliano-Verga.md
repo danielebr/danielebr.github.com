@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Massimiliano Verga, un gettone di libertà
+published: false
+tag:
+- intervista
+- handicap
+- libri
 ---
 
 ![](http://www.circololettori.it/wp-content/uploads/2013/02/Bresciani-foto-di-Maki-Galimberti.jpg)
