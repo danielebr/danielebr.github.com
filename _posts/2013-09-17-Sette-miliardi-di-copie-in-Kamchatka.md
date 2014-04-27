@@ -10,7 +10,7 @@ tag:
 
 ![](http://www.grazia.it/var/ezflow_site/storage/images/media/images/stile-di-vita2/libri/494665/fascette-libri-01/7107845-1-ita-IT/fascette-libri-01_hg_temp2_s_full_l.jpg)
 
-_(post pubblicato tempo fa su Grazia.it)__
+_(post pubblicato tempo fa su Grazia.it)_
 
 __Prima premessa:__ se siete dei puristi del libro, inteso come opera letteraria e non prodotto da supermercato, quello che state per leggere potrebbe farvi venire un po’ di orticaria.
 
